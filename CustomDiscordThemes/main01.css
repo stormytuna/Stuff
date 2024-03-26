@@ -132,7 +132,7 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   --main-font: gg sans;
-  --code-font: Consolas;
+  --code-font: Hack;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
@@ -151,5 +151,4 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
-  --code-font: monospace;
 }
